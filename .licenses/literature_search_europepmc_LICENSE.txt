@@ -1,0 +1,2 @@
+Timestamp: 2026-10-16T23:21:20+08:00
+Notification: Please check the terms of service at https://europepmc.org/ and always check the license of the individual papers retrieved by the literature-search-europepmc skill for any reuse or redistribution restrictions.

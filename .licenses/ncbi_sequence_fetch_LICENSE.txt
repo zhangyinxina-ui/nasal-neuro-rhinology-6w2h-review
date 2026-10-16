@@ -1,0 +1,2 @@
+Timestamp: 2026-10-16T23:22:30+08:00
+Notification: User was notified to check the NCBI terms and policies at https://www.ncbi.nlm.nih.gov/ and https://www.ncbi.nlm.nih.gov/home/about/policies/ before using ncbi-sequence-fetch.

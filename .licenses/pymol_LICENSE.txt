@@ -1,0 +1,2 @@
+Timestamp: 2026-10-17T00:37:30+08:00
+Notification: User notified to check the PyMOL license at https://www.pymol.org/

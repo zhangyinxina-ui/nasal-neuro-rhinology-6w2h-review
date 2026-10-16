@@ -1,0 +1,4 @@
+Human Protein Atlas (HPA) Database License Notification
+Notified user to review the Human Protein Atlas license terms at:
+https://www.proteinatlas.org/about/licence
+Timestamp: 2026-10-16T23:23:05+08:00

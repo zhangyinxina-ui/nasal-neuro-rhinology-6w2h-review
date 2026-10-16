@@ -1,0 +1,2 @@
+User Notification recorded at: 2026-10-16T23:22:35+08:00
+Notification Text: Please review the EMBL-EBI QuickGO Terms of Use and API documentation at https://www.ebi.ac.uk/QuickGO/ and https://www.ebi.ac.uk/QuickGO/api/index.html when using QuickGO data and annotations.

@@ -1,0 +1,2 @@
+Notification: Please review the AlphaGenome terms of use at https://deepmind.google.com/science/alphagenome/ before using the AlphaGenome API and single-variant analysis skill.
+Timestamp: 2026-10-16T23:24:45+08:00
